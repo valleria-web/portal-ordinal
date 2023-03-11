@@ -11,7 +11,7 @@ const SearchPosts = () => {
         <input
           className="border rounded py-2 px-3 mr-2 leading-tight focus:outline-none focus:shadow-outline"
           type="text"
-          placeholder="Buscar"
+          placeholder="Working on it"
           value={searchValue}
           onChange={(e) => setSearchValue(e.target.value)}
         />
@@ -19,7 +19,7 @@ const SearchPosts = () => {
           className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
           type="submit"
         >
-          Buscar
+          Search
         </button>
       </form>
     </div>
