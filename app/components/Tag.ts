@@ -1,7 +1,6 @@
-export type Tag = "Revista" | "Expediente" | "Ponencia";
+export type Tag = "PixelPepes1157" | "Sub100K94549";
 
 export const tagFilters: Tag[] = [
-    "Revista",
-    "Expediente",
-    "Ponencia"
+    "PixelPepes1157",
+    "Sub100K94549"
 ]
