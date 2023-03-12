@@ -22,7 +22,7 @@ export default function RootLayout({
           className="mx-auto"
         />
         <Link href="/">
-          <h1 className="text-3xl font-bold">Portal Ordinal</h1>{" "}
+          <h1 className="text-3xl font-bold">Ordinals Observatory</h1>{" "}
         </Link>
       </div>
     </header>

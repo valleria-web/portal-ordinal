@@ -1,6 +1,6 @@
 ---
 title: "Call to generous inscriber"
-autor: "Portal Ordinal"
+autor: "@PortalOrdinal"
 subtitle: "Chocolate donut with confetti, delicious, inscribed. Who was the generous inscriber?"
 date: "Marz 12, 2023"
 cover_image: "/images/donuts/donut-2.png"
