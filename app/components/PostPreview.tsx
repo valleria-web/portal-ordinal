@@ -13,7 +13,7 @@ const PostPreview = (props: PostMetadata) => {
         height={"100%"}
       />
       <Link href={`/posts/${props.slug}`}>
-        <h2 className="px-2 mb-2 text-2xl font-bold tracking-tight text-gray-700 dark:text-white">
+        <h2 className="px-2 m-2 mb-2 text-2xl font-bold tracking-tight text-gray-700 dark:text-white">
           {props.title}
         </h2>
       </Link>
@@ -23,7 +23,7 @@ const PostPreview = (props: PostMetadata) => {
       <p className="px-2 mb-3 text-sm text-gray-700 dark:text-gray-400">
       {props.date.toString()}
       </p>
-      <p className="text-slate-700 px-4 pb-4">{props.subtitle} </p>
+      <p className="text-slate-700 px-4 pb-8">{props.subtitle} </p>
 
       <div className="flex flex-wrap p-4">
         {props.tags &&
