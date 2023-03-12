@@ -5,7 +5,7 @@ subtitle: "Chocolate donut with confetti, delicious, inscribed. Who was the gene
 date: "Marz 12, 2023"
 cover_image: "/images/donuts/donut-2.png"
 identificacion: "donut2"
-tags: ["Sub100K94549", "#399356"]
+tags: ["#399356"]
 ---
 
 ## Call to generous inscriber
