@@ -23,7 +23,8 @@ export default function RootLayout({
         />
         <Link href="/">
           <h1 className="text-3xl font-bold">Ordinals Observatory</h1>{" "}
-        </Link>
+          <h3> @PortalOrdinal</h3>
+          </Link>
       </div>
     </header>
   );
