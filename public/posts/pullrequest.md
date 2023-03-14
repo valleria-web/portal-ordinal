@@ -1,6 +1,6 @@
 ---
 title: "Pull request for Donuts"
-autor: "@Sub100k94549"
+autor: "Sub100k94549"
 subtitle: "Hello, here Piet-ORD @Sub100k94549, I confirm that I did the Donuts pullrequest, I'm a little nervous, I think I did everything correctly.
 CC #PixelPepes1157"
 date: "Marz 12, 2023"
