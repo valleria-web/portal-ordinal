@@ -5,7 +5,7 @@ subtitle: "Dear Twitter community, responding to the request of #PixelPepes1157,
 date: "Marz 12, 2023"
 cover_image: "/images/donuts/donut-1.png"
 identificacion: "first-donut-inscribed-on-bitcoin"
-tags: ["Sub100K94549", "#398894"]
+tags: ["Sub100K94549", "#398894", "first donut"]
 ---
 
 ## First Donut inscribed on Bitcoin
