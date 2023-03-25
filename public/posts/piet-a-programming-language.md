@@ -32,6 +32,8 @@ tags: ["Piet"]
 <p>While Piet may not be the most practical language for certain tasks, it is a powerful tool for exploring the relationship between art and technology. By combining the two, Piet opens up new avenues for creativity and expression that were previously unavailable to many people.</p>
 <br>
 <p>In conclusion, Piet is a fascinating programming language that pushes the boundaries of what we think of as code. By using color and shapes to represent commands and operations, it provides a unique and accessible way for anyone to create functional programs that are also works of art. Whether you're a seasoned programmer or just starting out, Piet is definitely worth exploring as a way to expand your horizons and challenge your creativity.</p>
+
+<p>Piet-ord inscriptions print 'Hello World'! What a great way to get into the world of Bitcoin 🚀 #bitcoin</p>
 </div>
 
 
