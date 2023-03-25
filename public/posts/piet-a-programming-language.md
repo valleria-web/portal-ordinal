@@ -33,8 +33,10 @@ tags: ["Piet"]
 <br>
 <p>In conclusion, Piet is a fascinating programming language that pushes the boundaries of what we think of as code. By using color and shapes to represent commands and operations, it provides a unique and accessible way for anyone to create functional programs that are also works of art. Whether you're a seasoned programmer or just starting out, Piet is definitely worth exploring as a way to expand your horizons and challenge your creativity.</p>
 <br>
+</div>
+<div style="background-color: pink; font-size: 1.5em; padding:20px">
 <p>Piet-ord inscriptions print 'Hello World'! What a great way to get into the world of Bitcoin 🚀 #bitcoin</p>
 </div>
-
+<br>
 
 <a href="https://ordinalswallet.com/collection/piet-ord" target="_blank" style="background-color: blue; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Check it at ordinalswallet</a>
