@@ -35,6 +35,7 @@ const PostPreview = (props: PostMetadata) => {
               {tag}
             </span>
           ))}
+
       </div>
     </div>
   );
