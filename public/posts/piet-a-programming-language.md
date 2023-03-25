@@ -37,4 +37,4 @@ tags: ["Piet"]
 </div>
 
 
-<a href="https://ordinalswallet.com/collection/piet-ord" target="_blank">Check it at ordinalswallet</a>
+<a href="https://ordinalswallet.com/collection/piet-ord" target="_blank" style="background-color: blue; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Check it at ordinalswallet</a>
